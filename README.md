@@ -6,9 +6,9 @@ Python implementation of a Chip8 emulator, following several (Tobias V. Langhoff
 ](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/), and [Wikipedia](https://en.wikipedia.org/wiki/CHIP-8)) descriptions of the system. The goal of this particular project is to iterate on this emulator to eventually implement a full XO-Chip emulator.
 
 This is not optimized at all!
--[x] Make it work
--[x] Make it right (ish)
--[ ] Make it fast
+- [x] Make it work
+- [x] Make it right (ish)
+- [ ] Make it fast
 
 ## Instructions
 Download the whole project, and run [chip8.py](chip8.py) as follows:
@@ -28,12 +28,12 @@ The [Chip8 Archive](https://github.com/JohnEarnest/chip8Archive) is a great plac
 
 ---
 ## TODO
--[ ] Allow command-line configuration of C48 support
--[ ] Add theme specification from command line
--[ ] Add pause button
--[ ] Add proper sound
--[ ] Implement debug mode
--[ ] Add reset functionality
--[ ] Add drag-n-drop ROM loading
--[ ] Add SuperChip instructions
--[ ] Add OctoChip instructions
+- [ ] Allow command-line configuration of C48 support
+- [ ] Add theme specification from command line
+- [ ] Add pause button
+- [ ] Add proper sound
+- [ ] Implement debug mode
+- [ ] Add reset functionality
+- [ ] Add drag-n-drop ROM loading
+- [ ] Add SuperChip instructions
+- [ ] Add OctoChip instructions
