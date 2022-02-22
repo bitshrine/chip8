@@ -2,8 +2,7 @@
 
 > Requirements: `numpy`, `pygame`, `tqdm` and `tk`
 
-Python implementation of a Chip8 emulator, following several (Tobias V. Langhoff's [incredible writeup
-](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/), and [Wikipedia](https://en.wikipedia.org/wiki/CHIP-8)) descriptions of the system. The goal of this particular project is to iterate on this emulator to eventually implement a full XO-Chip emulator.
+Python implementation of a Chip8 emulator, following several (Tobias V. Langhoff's [incredible writeup](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/), and [Wikipedia](https://en.wikipedia.org/wiki/CHIP-8)) descriptions of the system. The goal of this particular project is to iterate on this emulator to eventually implement a full [XO-Chip](https://github.com/JohnEarnest/Octo) emulator.
 
 This is not optimized at all!
 - [x] Make it work
